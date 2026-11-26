@@ -18,4 +18,4 @@ For corpus issues, suggestions and data contributions, use the [TEI project's is
 
 - [Organization members](https://github.com/orgs/Middle-High-German-Conceptual-Database/people)
 - Project contact: [mhdbdb@plus.ac.at](mailto:mhdbdb@plus.ac.at)
-- Technical implementation of the TEI project: [Digital Humanities Craft](https://dhcraft.org)
+- Technical implementation of the TEI project: [Digital Humanities Craft](https://dhcraft.org) ([@DigitalHumanitiesCraft](https://github.com/DigitalHumanitiesCraft)), Christian Steiner ([@chsteiner](https://github.com/chsteiner))
